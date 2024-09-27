@@ -1,5 +1,7 @@
 # Hi 👋, I'm Amine Ait Mokhtar
 
+![Profile views](https://komarev.com/ghpvc/?username=amine-aitmokhtar&color=blue)
+
 ### A passionate Fullstack Developer
 
 - 🌱 I’m currently learning **[TypeScript]**
