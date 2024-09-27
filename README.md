@@ -1,3 +1,6 @@
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mysql,mongodb,express,tailwind,typescript&theme=dark)](https://skillicons.dev)
+
 # Hi 👋, I'm Amine Ait Mokhtar
 
 ### A passionate Fullstack Developer
