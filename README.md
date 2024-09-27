@@ -1,6 +1,3 @@
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mysql,mongodb,express,tailwind,typescript&theme=dark)](https://skillicons.dev)
-
 # Hi 👋, I'm Amine Ait Mokhtar
 
 ### A passionate Fullstack Developer
@@ -20,14 +17,7 @@
 ---
 
 ### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mysql,mongodb,express,tailwind,typescript&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -35,4 +25,3 @@
 ![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=amine-aitmokhtar&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amine-aitmokhtar&langs_count=8&theme=dark&layout=compact)
-
