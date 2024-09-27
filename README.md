@@ -23,8 +23,6 @@
 
 ---
 
-### GitHub Stats:
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=amine-aitmokhtar&show_icons=true&theme=dark)
 
 ### Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amine-aitmokhtar&layout=compact&theme=dark)
