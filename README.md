@@ -4,9 +4,9 @@
 
 ### A passionate Fullstack Developer
 
-- 🌱 I’m currently learning **[TypeScript]**
+- 🌱 I’m currently learning **[VueJS and Angular]**
 - 🔗 All of my projects are available at [My Portfolio](https://amine-aitmokhtar.me)
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Web development**
 - 📫 How to reach me: aitmokhtaramine1@gmail.com
 
 ---
