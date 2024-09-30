@@ -4,7 +4,7 @@
 
 ### A passionate Fullstack Developer
 
-- 🌱 I’m currently learning **[VueJS and Angular]**
+- 🌱 I’m currently learning **[Symfony]**
 - 🔗 All of my projects are available at [My Portfolio](https://amine-aitmokhtar.me)
 - 💬 Ask me about **Web development**
 - 📫 How to reach me: aitmokhtaramine1@gmail.com
