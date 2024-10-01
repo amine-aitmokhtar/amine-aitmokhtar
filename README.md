@@ -18,7 +18,7 @@
 ---
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,js,nextjs,php,laravel,symfony,mysql,mongodb,typescript,nodejs,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,php,laravel,symfony,mysql,mongodb,typescript,nodejs,tailwind&theme=dark)](https://skillicons.dev)
 
 ---
 
